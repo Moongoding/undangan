@@ -1,6 +1,5 @@
-<footer>
-    <div class="container">
-
+<div class="container-fluid" style="background: linear-gradient(#D3CCE3, #E9E4F0)">
+    <footer>
         <div class="row copyright">
             <div class="col-md-12 text-center">
                 <p>
@@ -17,32 +16,23 @@
                 </p>
             </div>
         </div>
-
+    </footer>
+    <iframe width="10%" height="30" scrolling="no" frameborder="no" allow="autoplay"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/150968746&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
+    <div
+        style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
+        <a href="https://soundcloud.com/lykaseccion" title="Read Twilight Saga Online" target="_blank"
+            style="color: #cccccc; text-decoration: none;">Read Twilight Saga Online</a> · <a
+            href="https://soundcloud.com/lykaseccion/a-thousand-years-part-3" title="A Thousand Years Part 2"
+            target="_blank" style="color: #cccccc; text-decoration: none;">A Thousand Years Part 2</a>
     </div>
-</footer>
+</div>
 </div>
 
 <div class="gototop js-top">
     <a href="#" class="js-gotop"><i class="icon-arrow-up"></i></a>
 </div>
 
-<iframe width="10%" height="30" scrolling="no" frameborder="no" allow="autoplay"
-    src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/66810925&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
-<div
-    style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
-    <a href="https://soundcloud.com/atlanticrecords" title="Atlantic Records" target="_blank"
-        style="color: #cccccc; text-decoration: none;">Atlantic Records</a> · <a
-        href="https://soundcloud.com/atlanticrecords/christina-perri-a-thousand"
-        title="Christina Perri - A Thousand Years (Part 2)" target="_blank"
-        style="color: #cccccc; text-decoration: none;">Christina Perri - A Thousand Years (Part 2)</a>
-</div>
-<div
-    style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
-    <a href="https://soundcloud.com/charismapendarsuci" title="Charismapendarsuci" target="_blank"
-        style="color: #cccccc; text-decoration: none;">Charismapendarsuci</a> · <a
-        href="https://soundcloud.com/charismapendarsuci/maher-zain-sepanjang-hidup" title="Maher zain - sepanjang hidup"
-        target="_blank" style="color: #cccccc; text-decoration: none;">Maher zain - sepanjang hidup</a>
-</div>
 
 <!-- jQuery -->
 <script src="<?php echo base_url('assets/bootstrap/js/jquery.min.js');?>"></script>
