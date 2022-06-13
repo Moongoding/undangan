@@ -17,15 +17,9 @@
             </div>
         </div>
     </footer>
-    <iframe width="10%" height="30" scrolling="no" frameborder="no" allow="autoplay"
-        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/150968746&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
-    <div
-        style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
-        <a href="https://soundcloud.com/lykaseccion" title="Read Twilight Saga Online" target="_blank"
-            style="color: #cccccc; text-decoration: none;">Read Twilight Saga Online</a> · <a
-            href="https://soundcloud.com/lykaseccion/a-thousand-years-part-3" title="A Thousand Years Part 2"
-            target="_blank" style="color: #cccccc; text-decoration: none;">A Thousand Years Part 2</a>
-    </div>
+    <iframe width="30%" height="30%" scrolling="no" frameborder="no" allow="autoplay"
+        src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/150968746&color=%23ff5500&auto_play=true&hide_related=true&show_comments=false&show_user=false&show_reposts=false&show_teaser=false"></iframe>
+
 </div>
 </div>
 
